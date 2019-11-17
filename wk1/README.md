@@ -57,3 +57,5 @@ edges and gradients -> textures -> patterns -> parts of objects -> objects -> sc
 - - - -
 
 Please click this [link](https://colab.research.google.com/drive/13yneZmMb7Wd80iV3oLfB83cDahOzWXe6) if the notebook does not render.
+
+score = 0.9921
