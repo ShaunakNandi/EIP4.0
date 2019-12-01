@@ -4,9 +4,11 @@
   2. beat base validation accuracy: 84%
   3. No Conv2D (implement spatially separable convolutions)
   
+Please click [here](https://colab.research.google.com/drive/1L3Za-g1VnY2ejCDMfiHiN68U5cvQFBaq) if the colab page does not render
+  
 # Model Definition
 
-Layer (type)                 Output Shape              Param #   
+Layer(type)                 Output Shape              Param #
 =================================================================
 input_mod2 (InputLayer)      (None, None, None, 3)     0         
 _________________________________________________________________
@@ -104,4 +106,10 @@ Total params: 32,261
 Trainable params: 31,173
 Non-trainable params: 1,088
 _________________________________________________________________
+
+# Output
+
+  1. channel size: 256 * 32 * 32 * 64 * 128
+  2. receptive field: 32 * 32
+
 
