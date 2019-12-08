@@ -8,7 +8,7 @@ Completed the image annotation exercise for all 102 images.
 
 # Assgn 4b: GRADCAM
 
-  1. Resnet-18 trained on CIFAR10
+  1. Resnet-18 trained on CIFAR10 (85% test accuracy)
   
   2. GradCam heatmap superimposed on image samples to visualize what the network sees when making predictions
 
